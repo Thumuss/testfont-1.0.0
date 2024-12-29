@@ -1,0 +1,7 @@
+[package]
+name = "testfont"
+version = "1.0.0"
+entrypoint = "main.typ"
+authors = []
+license = "MIT"
+description = ""
